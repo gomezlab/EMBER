@@ -4,6 +4,9 @@ Project: EMBER
 EMBER: Embedding-based multi-label prediction of phosphorylation events
 Developer: Kathryn E. Kirchoff from Gomez Lab (Computational Systems Biology & Network Medicine) at University of North Carolina—Chapel Hill. 
 
+A preprint mansucript describing EMBER and its application is available through bioRxiv:
+https://doi.org/10.1101/2020.02.04.934216
+
 Requirements
 =========
     torch==1.3.1
